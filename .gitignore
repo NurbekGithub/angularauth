@@ -1,0 +1,7 @@
+node_modules
+/config
+
+
+//error files
+yarn-error.log
+npm-error.log
